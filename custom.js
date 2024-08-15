@@ -22,6 +22,7 @@ const one=()=>{
     }
 }
 
+//two function
 const two=()=>{
     if(document.querySelector("#display").value==" "){
         document.querySelector("#display").value=="2";
@@ -32,6 +33,7 @@ const two=()=>{
     }
 }
 
+//three function
 const three=()=>{
     if(document.querySelector("#display").value==" "){
         document.querySelector("#display").value=="3";
@@ -42,6 +44,7 @@ const three=()=>{
     }
 }
 
+//four function
 const four=()=>{
     if(document.querySelector("#display").value==" "){
         document.querySelector("#display").value=="4";
@@ -52,7 +55,7 @@ const four=()=>{
     }
 }
 
-
+//five function
 const five=()=>{
     if(document.querySelector("#display").value==" "){
         document.querySelector("#display").value=="5";
@@ -64,7 +67,7 @@ const five=()=>{
 }
 
 
-
+//six function
 const six=()=>{
     if(document.querySelector("#display").value==" "){
         document.querySelector("#display").value=="6";
@@ -75,7 +78,7 @@ const six=()=>{
     }
 }
 
-
+//seven function
 const seven=()=>{
     if(document.querySelector("#display").value==" "){
         document.querySelector("#display").value=="7";
@@ -86,6 +89,7 @@ const seven=()=>{
     }
 }
 
+//eight function
 const eight=()=>{
     if(document.querySelector("#display").value==" "){
         document.querySelector("#display").value=="8";
@@ -96,6 +100,7 @@ const eight=()=>{
     }
 }
 
+//nine function
 const nine=()=>{
     if(document.querySelector("#display").value==" "){
         document.querySelector("#display").value=="9";
@@ -106,6 +111,7 @@ const nine=()=>{
     }
 }
 
+//zero function
 const zero=()=>{
     if(document.querySelector("#display").value==" "){
         document.querySelector("#display").value=="0";
@@ -116,6 +122,7 @@ const zero=()=>{
     }
 }
 
+//point function
 const point=()=>{
     if(document.querySelector("#display").value==" "){
         document.querySelector("#display").value==".";
